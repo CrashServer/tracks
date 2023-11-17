@@ -1,3 +1,4 @@
+# some functions might be dependant on our special foxdot branch & not work as in vanilla foxDot
 #infiltration
 Scale.default="minor"
 Clock.bpm = 123;
